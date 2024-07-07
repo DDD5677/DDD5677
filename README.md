@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently, I have started the 100 days of coding challenge. And during this time I want to learn node.js advanced
+Hey there! I'm Danisher Djumakulov, a Full Stack Developer with hands-on experience in creating real-world projects.
+Currently, I have started the 100 days of coding challenge. And during this time I want to learn node.js advanced and solve 150 leetcode problems.
 
 
 ## 🌐 Socials:
